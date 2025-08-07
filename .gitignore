@@ -1,0 +1,48 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# Environment files
+*.env
+*.venv
+.envrc
+.venv/
+env/
+venv/
+
+# Logs
+*.log
+log.txt
+
+# Model checkpoints & training artifacts
+*.pt
+*.pth
+*.tar
+*.ckpt
+*.npy
+*.npz
+
+# Training outputs
+work_dir/
+working_dir/
+features/
+output/
+runs/
+
+# Evaluation tools
+software/sclite
+SCTK/
+
+# Temporary or version-specific files
+=3.9
+=3.10
+=3.11
+
+# OS-specific
+.DS_Store
+Thumbs.db

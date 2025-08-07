@@ -37,6 +37,8 @@ runs/
 # Evaluation tools
 software/sclite
 SCTK/
+ctcdecode/
+dataset/phoenix2014
 
 # Temporary or version-specific files
 =3.9
